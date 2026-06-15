@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Amatul Moula Shuva 👋
 
-<!--
-**amatulmoula/amatulmoula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Master's Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Research Interests:
+- Machine Learning
+- Artificial Intelligence
+- Digital Image Processing
+- Medical Image Analysis
+
+📚 Current Research:
+Prediabetes Classification Using Machine Learning
+
+💻 Projects:
+- Diabetes Prediction
+- Diabetic Retinopathy Detection
+- AutoGen Multi-Agent Crime Prediction
+
+🌍 Goal:
+PhD in AI, Machine Learning and Medical Imaging
+
+## Skills
+
+Python
+
+Machine Learning
+
+Deep Learning
+
+Data Analysis
+
+Computer Vision
+
+Git & GitHub
+
+## Contact
+
+GitHub:
+https://github.com/amatulmoula
