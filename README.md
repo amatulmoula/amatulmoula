@@ -14,16 +14,14 @@
 Prediabetes Classification Using Machine Learning
 
 💻 Projects:
-- Diabetes Prediction
-- Diabetic Retinopathy Detection
-- AutoGen Multi-Agent Crime Prediction
+- Diabetes Prediction : https://github.com/amatulmoula/Diabetes_prediction
+- Diabetic Retinopathy Detection : https://github.com/amatulmoula/diabetic_retinopathy_detection
+- AutoGen Multi-Agent Crime Prediction : https://github.com/amatulmoula/Ai_Autogen_agent
 
 🌍 Goal:
 PhD in AI, Machine Learning and Medical Imaging
 
 ## Skills
-
-Python
 
 Machine Learning
 
@@ -32,10 +30,3 @@ Deep Learning
 Data Analysis
 
 Computer Vision
-
-Git & GitHub
-
-## Contact
-
-GitHub:
-https://github.com/amatulmoula
